@@ -1,59 +1,69 @@
-* {
-  margin: 0;
-  padding: 0%;
-}
+*{
+margin: 0;
+padding: 0%;
+    }
 
-a {
-  text-decoration: none;
-  outline: none;
+a{
+text-decoration: none;
+outline: none;
 }
 
 nav {
-  background-color: rgb(226, 103, 197);
+background-color: rgb(226, 103, 197)  ;
+
+
 }
 
-h3 {
-  font-size: 4em;
-  font-family: "Beau Rivage", cursive;
+h3{
+font-size: 4em;
+font-family: 'Beau Rivage', cursive;
+
 }
 
-.btn {
-  text: black;
+.btn{
+text: black;    
+
 }
 
 header {
-  background-image: url("../img/laptop-1512838_960_720.png");
-  background-position: center;
-  background-size: cover;
-  height: 20em;
-  padding-top: 10em;
-  font-size: 2em;
-  text-align: center;
-}
+background-image: url("../img/laptop-1512838_960_720.png");
+background-position: center;
+background-size: cover;
+height: 20em;
+padding-top: 10em;
+font-size: 2em;
+text-align: center;
+    
+    }
+    
+.carousel { 
+background-color: rgb(203, 27, 165);
+    }
+    
+ .carousel-item  {
+margin-left: 25%; 
+margin-top: 30px;
+margin-bottom: 50px;
+    }
 
-.carousel {
-  background-color: rgb(203, 27, 165);
-}
 
-.carousel-item {
-  margin-left: 25%;
-  margin-top: 30px;
-  margin-bottom: 50px;
-}
-
-legend {
-  margin-bottom: 5%;
+   
+   
+        
+legend{
+margin-bottom: 5%;
 }
 
 .icono {
-  text-align: center;
-  display: flex;
+text-align: center;
+display: flex;
 
-  padding-top: 2%;
-  justify-content: center;
+padding-top: 2%;
+justify-content: center;
 }
 
-.icono a {
-  text-decoration: none;
-  color: rgb(203, 27, 165);
+.icono a{
+text-decoration: none;
+color:  rgb(203, 27, 165);
+
 }
