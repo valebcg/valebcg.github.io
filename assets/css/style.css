@@ -15,9 +15,9 @@ background-color: rgb(226, 103, 197)  ;
 }
 
 h3{
-padding-left: 30px;
-font-size: 70px;
+font-size: 4em;
 font-family: 'Beau Rivage', cursive;
+
 }
 
 .btn{
@@ -25,29 +25,45 @@ text: black;
 
 }
 
-header{
-    background-image: url("../img/laptop-1512838_960_720.png");
-    background-position: center;
-    background-size: cover;
-    height: 20em;
-    padding-top: 10em;
-    font-size: 2em;
-    text-align: center;
+header {
+background-image: url("../img/laptop-1512838_960_720.png");
+background-position: center;
+background-size: cover;
+height: 20em;
+padding-top: 10em;
+font-size: 2em;
+text-align: center;
     
     }
     
-    .carousel { 
-    background-color: rgb(203, 27, 165);
+.carousel { 
+background-color: rgb(203, 27, 165);
     }
     
-    .carousel-item {
-    text-align: center;
-    margin-left: 30%;
-    margin-top: 30px;
-    margin-bottom: 50px;
-    width: 600px;
+ .carousel-item  {
+margin-left: 25%; 
+margin-top: 30px;
+margin-bottom: 50px;
     }
+
+
+   
+   
         
 legend{
 margin-bottom: 5%;
+}
+
+.icono {
+text-align: center;
+display: flex;
+
+padding-top: 2%;
+justify-content: center;
+}
+
+.icono a{
+text-decoration: none;
+color:  rgb(203, 27, 165);
+
 }
