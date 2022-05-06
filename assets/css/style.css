@@ -12,9 +12,8 @@ nav {
   background-color: rgb(226, 103, 197);
 }
 
-.nav-link{ 
-background-color: blueviolet;
-
+.nav-link {
+  background-color: blueviolet;
 }
 
 h3 {
@@ -22,18 +21,17 @@ h3 {
   font-family: "Beau Rivage", cursive;
 }
 
-h4{
-color: rgb(23, 36, 110);
-text-align: center;
-padding-left: 15%;
-padding-right: 11%;
-padding-top: 2%;
-
+h4 {
+  color: rgb(23, 36, 110);
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 11%;
+  padding-top: 2%;
 }
 
 .btn {
-color: black;
-background-color: blueviolet;
+  color: black;
+  background-color: blueviolet;
 }
 
 header {
@@ -44,7 +42,6 @@ header {
   padding-top: 10em;
   font-size: 3em;
   text-align: center;
-  
 }
 
 .carousel {
