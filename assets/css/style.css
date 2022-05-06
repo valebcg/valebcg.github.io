@@ -12,13 +12,19 @@ nav {
   background-color: rgb(226, 103, 197);
 }
 
+.nav-link{ 
+background-color: blueviolet;
+
+}
+
 h3 {
-  font-size: 4em;
+  font-size: 3em;
   font-family: "Beau Rivage", cursive;
 }
 
 .btn {
 color: black;
+background-color: blueviolet;
 }
 
 header {
@@ -27,8 +33,9 @@ header {
   background-size: cover;
   height: 20em;
   padding-top: 10em;
-  font-size: 2em;
+  font-size: 3em;
   text-align: center;
+  
 }
 
 .carousel {
