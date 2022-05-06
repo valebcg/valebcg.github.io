@@ -22,6 +22,15 @@ h3 {
   font-family: "Beau Rivage", cursive;
 }
 
+h4{
+color: rgb(23, 36, 110);
+text-align: center;
+padding-left: 15%;
+padding-right: 11%;
+padding-top: 2%;
+
+}
+
 .btn {
 color: black;
 background-color: blueviolet;
