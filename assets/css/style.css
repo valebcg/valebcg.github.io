@@ -9,7 +9,7 @@ a {
 }
 
 nav {
-  background-color: rgb(226, 103, 197);
+  background-color: rgb(195, 150, 237);
 }
 
 .nav-link {
@@ -19,6 +19,7 @@ nav {
 h3 {
   font-size: 3em;
   font-family: "Beau Rivage", cursive;
+  padding-left: 1em;
 }
 
 h4 {
@@ -31,21 +32,22 @@ h4 {
 
 .btn {
   color: black;
-  background-color: blueviolet;
+  background-color: rgb(195, 150, 237);
 }
 
 header {
-  background-image: url("../img/laptop-1512838_960_720.png");
+  background-image: url("../img/mujer-joven-trabajando-en-informática-trabaja-un-ordenador-que-está-el-suelo-aislado-blanco-182443840.jpg ");
   background-position: center;
   background-size: cover;
   height: 20em;
-  padding-top: 10em;
+  padding-top: 4em;
   font-size: 3em;
   text-align: center;
+  max-width: 100%;
 }
 
 .carousel {
-  background-color: rgb(203, 27, 165);
+  background-color: rgb(142, 208, 237);
 }
 
 .carousel-item {
@@ -61,12 +63,11 @@ legend {
 .icono {
   text-align: center;
   display: flex;
-
   padding-top: 2%;
   justify-content: center;
 }
 
 .icono a {
   text-decoration: none;
-  color: rgb(203, 27, 165);
+  color: rgba(8, 65, 221, 0.721);
 }
